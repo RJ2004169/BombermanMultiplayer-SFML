@@ -1,0 +1,42 @@
+﻿  Main.cpp
+  Player.cpp
+  Server.cpp
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: unresolved external symbol __imp__setsockopt@20
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: unresolved external symbol __imp__socket@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__socket@12
+sfml-network-s.lib(SocketSelector.cpp.obj) : error LNK2001: unresolved external symbol ___WSAFDIsSet@8
+sfml-network-s.lib(SocketSelector.cpp.obj) : error LNK2001: unresolved external symbol __imp__select@20
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__select@20
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__connect@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__connect@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__getsockname@12
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: unresolved external symbol __imp__getsockname@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__getsockname@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__inet_addr@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__inet_ntoa@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__getaddrinfo@16
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__freeaddrinfo@4
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: unresolved external symbol __imp__accept@12
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: unresolved external symbol __imp__bind@12
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: unresolved external symbol __imp__listen@8
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohs@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohs@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohs@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__htons@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__htons@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__getpeername@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__recv@16
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__send@16
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__closesocket@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__ioctlsocket@12
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSAStartup@8
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSACleanup@0
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSAGetLastError@0
+C:\Users\rijuj\source\repos\Bomberman\Release\Bomberman.exe : fatal error LNK1120: 25 unresolved externals

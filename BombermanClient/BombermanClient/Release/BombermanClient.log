@@ -1,0 +1,111 @@
+﻿  Bomb.cpp
+  Client.cpp
+  DestructableWalls.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(145,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(145,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(152,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(152,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(157,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(157,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(162,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(162,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(167,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(167,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(172,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Game.cpp(172,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  IndestructableWalls.cpp
+  Main.cpp
+  Player.cpp
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\BombermanClient\Player.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: unresolved external symbol __imp__setsockopt@20
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: unresolved external symbol __imp__socket@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__socket@12
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__htonl@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__htons@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__htons@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohl@4
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohs@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__ntohs@4
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__connect@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__connect@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__getpeername@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__getsockname@12
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__getsockname@12
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__recv@16
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__select@20
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: unresolved external symbol __imp__send@16
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__inet_addr@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__inet_ntoa@4
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__getaddrinfo@16
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: unresolved external symbol __imp__freeaddrinfo@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__closesocket@4
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__ioctlsocket@12
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSAStartup@8
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSACleanup@0
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__WSAGetLastError@0
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glFlush@0
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol _glFlush@0
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGetTexImage@20
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glLoadIdentity@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glLoadIdentity@0
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glLoadMatrixf@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glLoadMatrixf@4
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glMatrixMode@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glMatrixMode@4
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexImage2D@36
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexParameteri@12
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glBindTexture@8
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol _glBindTexture@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glCopyTexSubImage2D@32
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glDeleteTextures@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGenTextures@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexSubImage2D@36
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glBlendFunc@8
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glClear@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glClearColor@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDisable@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glEnable@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopAttrib@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopMatrix@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushAttrib@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushMatrix@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glViewport@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glColorPointer@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDisableClientState@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDrawArrays@12
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glEnableClientState@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopClientAttrib@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushClientAttrib@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glTexCoordPointer@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glVertexPointer@16
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetError@0
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetString@4
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__timeGetDevCaps@8
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__timeBeginPeriod@4
+sfml-system-s.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__timeEndPeriod@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glEnable@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetError@0
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetIntegerv@8
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetString@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glIsEnabled@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglCreateContext@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglDeleteContext@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglGetProcAddress@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglMakeCurrent@8
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglShareLists@8
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__joyGetPosEx@8
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__joyGetDevCapsW@12
+C:\Game Dev Practicals\CMP-501\Project\BombermanClient\Release\BombermanClient.exe : fatal error LNK1120: 69 unresolved externals
